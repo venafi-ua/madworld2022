@@ -12,7 +12,7 @@ Please review the License file. This work remains copyrighted, but available thr
 
 Folders:
 
-- ally-1: Monday's presentation on being an accessability a11y. [Link](/a11y-1/)
-- ally-2: Tuesday's continuation of the presentation on being an a11y.
-- confluence: Tuesday's presentation on integrating Flare with Confluence.
-- jquery: Wednesday's Advanced Workshop on using jQuery in a Flare project.
+- [ally-1](/ally-1/): Monday's presentation on being an accessability a11y.
+- [ally-2](/ally-2/): Tuesday's continuation of the presentation on being an a11y.
+- [confluence](/confluence/): Tuesday's presentation on integrating Flare with Confluence.
+- [jquery](/jquery/): Wednesday's Advanced Workshop on using jQuery in a Flare project.
