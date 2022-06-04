@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div id="scripts"> <!-- content in this div comes from include-at-top-of-all-pages.flsnp -->
+			<script src="../../MasterPages/scripts/pendoid.js"></script>
+			<script src="../../MasterPages/scripts/changeVersion.js?ver=22.2"></script>
+			<script src="../../MasterPages/scripts/initializePage.js?ver=22.2"></script>
+			<MadCap:conditionalText MadCap:conditions="Default.CS-only" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+				<script src="../../MasterPages/scripts/pendo-public.js"></script>
+			</MadCap:conditionalText>
+			<script src="../../MasterPages/scripts/accessibility.js"></script>
+			<script src="../../MasterPages/scripts/docfeedback.js?ver=22.2"></script>
+			<script src="../../MasterPages/scripts/docCopysample.js"></script>
+			<script src="../../MasterPages/scripts/jquery.tablesorter.js"></script>
+			<script src="../../MasterPages/scripts/jquery.stickytableheaders.js"></script>
+			<script src="../../MasterPages/scripts/filterDiv.js"></script>
+			<script src="../../MasterPages/scripts/madworld.js"></script>
+		</div>
+    </body>
+</html>

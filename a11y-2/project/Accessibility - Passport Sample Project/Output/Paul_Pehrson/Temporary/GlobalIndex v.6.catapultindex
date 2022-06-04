@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalIndex
+  SavedSource="file:///C:/github-dgt/madworld2022/a11y-2/project/Accessibility - Passport Sample Project/Output/Paul_Pehrson/Temporary/GlobalIndex v.6.catapultindex">
+  <IndexEntry>
+    <Entries>
+      <IndexEntry
+        Term="image">
+        <Entries />
+        <Links />
+        <SeeAlsoLinks>
+          <IndexSeeAlsoLink
+            Term="image"
+            LinkedTerm="photo"
+            LinkType="see"
+            Source="../Project/Advanced/Auto Index Sets/Index Link Set.flixl" />
+        </SeeAlsoLinks>
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="photo">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Topics/Concepts/passport-photos.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+    </Entries>
+    <Links />
+    <SeeAlsoLinks />
+    <IndexControlLinks />
+    <SortAsLinks />
+  </IndexEntry>
+  <SourceUrls>
+    <Url
+      Source="Resources/Images/how-to-apply-for-a-passport-steps.png" />
+    <Url
+      Source="Resources/MasterPages/MasterPage.flmsp" />
+    <Url
+      Source="Resources/PageLayouts/Default.flpgl" />
+    <Url
+      Source="Resources/Snippets/passport photo.flsnp" />
+    <Url
+      Source="Resources/Snippets/passport-fees-table.flsnp" />
+    <Url
+      Source="Resources/Snippets/passport-fees.flsnp" />
+    <Url
+      Source="Resources/Stylesheets/Modern.css" />
+    <Url
+      Source="Resources/TableStyles/TableStyle.css" />
+    <Url
+      Source="Topics/Concepts/Before You Go.htm" />
+    <Url
+      Source="Topics/Concepts/International Travel.htm" />
+    <Url
+      Source="Topics/Concepts/Passport Fees.htm" />
+    <Url
+      Source="Topics/Concepts/passport-photos.htm" />
+    <Url
+      Source="Topics/Reference/Travel-to-high-risk-areas.htm" />
+    <Url
+      Source="Topics/Reference/what-form-should-I-use.htm" />
+    <Url
+      Source="Topics/Tasks/how-to-apply-for-a-passport.htm" />
+    <Url
+      Source="Topics/Tasks/renew-by-mail.htm" />
+    <Url
+      Source="Topics/Tasks/Travelerschecklist.htm" />
+  </SourceUrls>
+  <SourceLinkSetUrls>
+    <Url
+      Source="Advanced/Auto Index Sets/Index Link Set.flixl" />
+  </SourceLinkSetUrls>
+  <UsedUrls>
+    <Url
+      Source="Topics/Concepts/passport-photos.htm"
+      Terms="photo" />
+  </UsedUrls>
+  <UsedIndexControlUrls />
+</CatapultGlobalIndex>
