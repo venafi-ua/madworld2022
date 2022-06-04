@@ -11,4 +11,3 @@ Following up on the first accesibility session, in this second hour, we'll look 
 ## Other information
 
 Much of what is presented orally in the session is contained in the slide Notes in PowerPoint, so be sure to read those if you aren't watching the presentation.
-s
