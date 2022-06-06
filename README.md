@@ -1,6 +1,6 @@
 # MadWorld 2022 - Paul Pehrson - DocGuy Training
 
-Public repository of project, Powerpoint, and scripting files I used for my presentations at MadWorld 2022 in Austin, TX
+Public repository of project, Powerpoint, and scripting files I used for my presentations at MadWorld 2022 in Austin, TX.
 
 ## Overview
 
